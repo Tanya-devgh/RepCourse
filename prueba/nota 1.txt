@@ -1,2 +1,6 @@
 Holi gut hub
+<<<<<<< HEAD
 Hola git hub tanya
+=======
+adios git hub 
+>>>>>>> d8b7cfe355a727b43d953ef7b25007ad17427d73
